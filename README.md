@@ -32,5 +32,9 @@ Por fim, com a linguagem identificada, será enviado a lista de verificações q
 
 /exemplos -> contém alguns exemplos de código em Java ou em Python com alguns erros que a ferramenta deve detectar
 
+## Exemplo de Execução
+
+
+
 
 
