@@ -34,6 +34,9 @@ Por fim, com a linguagem identificada, será enviado a lista de verificações q
 
 ## Exemplo de Execução
 
+Definindo as regras de uma linguagem.
+
+![Regras das Linguagens](images/regraas.png?raw=true "Title")
 
 
 
