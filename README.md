@@ -36,8 +36,12 @@ Por fim, com a linguagem identificada, será enviado a lista de verificações q
 
 Definindo as regras de uma linguagem.
 
-![Regras das Linguagens](images/regras.png?raw=true "Title")
+![Regras das Linguagens](images/regras.png?raw=true "Regras das Linguagens")
 
+Lendo o arquivo que será analisado.
 
+![Lendo o Arquivo](images/arquivos.png?raw=true "Lendo o Arquivo")
 
+Mostrando a Revisão do Código
 
+![Revisão do Código](images/revisao.png?raw=true "Revisão do Código")
