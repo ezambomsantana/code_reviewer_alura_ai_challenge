@@ -36,7 +36,7 @@ Por fim, com a linguagem identificada, será enviado a lista de verificações q
 
 Definindo as regras de uma linguagem.
 
-![Regras das Linguagens](images/regraas.png?raw=true "Title")
+![Regras das Linguagens](images/regras.png?raw=true "Title")
 
 
 
